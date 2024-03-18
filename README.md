@@ -1,4 +1,4 @@
-
+MODULES REQUIRED:- Pycryptodome, hashlib
 # Cryptography Project: Tweaked Blockchain, AES, and RSA Encryption
 
 This repository contains a project report and implementation code for a Tweaked Blockchain system with AES and RSA encryption techniques. The project aims to explore and demonstrate the concepts of blockchain technology, advanced encryption standard (AES), and the RSA cryptosystem.
