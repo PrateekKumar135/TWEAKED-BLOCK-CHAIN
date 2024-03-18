@@ -9,9 +9,8 @@ This repository contains a project report and implementation code for a Tweaked 
 - [Project Structure](#project-structure)
 - [Tweaked Blockchain](#tweaked-blockchain)
 - [AES Encryption](#aes-encryption)
-- [RSA Encryption](#rsa-encryption)
 - [Installation](#installation)
-- [Usage](#usage)
+
 
 
 ## Introduction
@@ -33,10 +32,9 @@ project-root/
 │   └── README.md
 ├── encryption/
 │   ├── aes_encryption.py
-│   ├── rsa_encryption.py
 │   └── README.md
 ├── report/
-│   └── project_report.pdf
+│   └── my_project.pdf
 └── README.md
 ```
 
@@ -61,7 +59,4 @@ The RSA cryptosystem is a widely used public-key encryption algorithm. This proj
 
 To run the project, you'll need to have Python 3.x installed on your system. 
 
-## Usage
-
-Detailed usage instructions for each component can be found in the respective README files within the `blockchain/` and `encryption/` directories.
 
